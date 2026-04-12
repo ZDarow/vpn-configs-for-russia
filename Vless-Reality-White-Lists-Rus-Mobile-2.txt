@@ -1,6 +1,19 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 5
-# Date/Time: 2026-04-12 / 13:15 (Moscow)
-# Количество: 0
+# Date/Time: 2026-04-12 / 14:05 (Moscow)
+# Количество: 13
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://00cce248-f367-4100-94cf-a06372e65ae5@212.192.14.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://088c2cde-fbc3-481a-84db-c6107d6b512f@212.192.14.160:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&sni=goodcardboard.shop#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://25dc43a1-b553-4b87-85b5-7f302adce73e@212.192.14.153:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&sni=goodcardboard.shop#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://7aca8c88-307b-4afe-9858-ae2f405a7c6f@212.192.14.160:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&sni=goodcardboard.shop#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://879860bd-c135-493d-a983-2265731467e6@212.192.14.153:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://879860bd-c135-493d-a983-2265731467e6@212.192.14.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://bdcd5991-6b61-4cb0-987f-a67c501ed951@212.192.14.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://d4ac8ef7-b18c-46c3-ad40-373e28558b33@212.192.14.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://429fe050-387d-4864-bb53-0c94f190d6e7@158.160.252.128:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://85d36a91-c820-446b-8584-f3c1e274315a@158.160.252.128:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://9920bea4-e559-4ad1-ae53-fa3376642ee8@158.160.252.128:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&sni=5post-gate.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://f6528197-61ca-480d-abea-3de1432f10a4@158.160.252.128:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://f6528197-61ca-480d-abea-3de1432f10a4@158.160.252.128:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&sni=5post-gate.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
